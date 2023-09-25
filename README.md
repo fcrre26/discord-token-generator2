@@ -1,3 +1,6 @@
+STAR PLEASSEEEEE
+
+
 RUN AS ADMIN OR IT WONT HAVE ACCESS TO CONFIG FILES SO IT WONT OPEN
 
 Put your own pictures in avatars folder(if u want to have your own pfps
